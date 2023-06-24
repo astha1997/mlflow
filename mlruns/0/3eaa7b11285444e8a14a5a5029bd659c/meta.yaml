@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/astha.sachan/mlflow/mlruns/0/3eaa7b11285444e8a14a5a5029bd659c/artifacts
+end_time: 1687090188494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eaa7b11285444e8a14a5a5029bd659c
+run_name: welcoming-bird-872
+run_uuid: 3eaa7b11285444e8a14a5a5029bd659c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687090188387
+status: 3
+tags: []
+user_id: astha.sachan
